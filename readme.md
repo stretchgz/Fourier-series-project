@@ -2,8 +2,8 @@
 
 * Authors: Wai Tsang, Kawa Tsang
 * Software: MatLab
-* License: WTFPL
-* License URI: http://www.wtfpl.net/txt/copying/
+* License: MIT
+* License URI: http://opensource.org/licenses/MIT
 
 Plot the given time function on Matlab.
 
